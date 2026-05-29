@@ -41,10 +41,7 @@ Aspiring Cybersecurity & AI Engineer
 
 ---
 
-## GitHub Stats 📊
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad-mujtaba648&show_icons=true&theme=dark)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
 ---
 
 ⭐ *Open to collaborations and internship opportunities!*
