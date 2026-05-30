@@ -1,5 +1,4 @@
 # Hi there, I'm Ahmad Mujtaba! 👋
-
 CS Student @ UET Lahore (ADP) | Expected Graduation: 2027  
 Aspiring Cybersecurity & AI Engineer  
 📍 Lahore, Pakistan  
@@ -23,12 +22,13 @@ Aspiring Cybersecurity & AI Engineer
 
 - **ICIP** — Introduction to Critical Infrastructure Protection  
   *OPSWAT Academy*
+- **Introduction to Microsoft Excel** — Coursera
 
 ---
 
 ## Currently Learning
 
-- Python 
+- Python
 - Cybersecurity fundamentals
 - Artificial Intelligence basics
 
@@ -41,7 +41,14 @@ Aspiring Cybersecurity & AI Engineer
 
 ---
 
+## 👨‍💻 Author
+
+**Ahmad Mujtaba**  
+CS Student @ UET Lahore | Aspiring Cybersecurity & AI Engineer  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe)](https://github.com/ahmad-mujtaba648/ahmad-mujtaba648/blob/main/Ahmed_Mujtaba_CV_Final.pdf)
+
 ---
 
 ⭐ *Open to collaborations and internship opportunities!*
