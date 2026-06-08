@@ -48,6 +48,7 @@ CS Student @ UET Lahore | Aspiring Cybersecurity & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe)](https://github.com/ahmad-mujtaba648/ahmad-mujtaba648/blob/main/Ahmed_Mujtaba_CV_Final.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ahmad-mujtaba648)
 
 ---
 
