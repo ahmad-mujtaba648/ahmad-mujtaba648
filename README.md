@@ -18,7 +18,7 @@ Aspiring Cybersecurity & AI Engineer
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - **ICIP** — Introduction to Critical Infrastructure Protection  
   *OPSWAT Academy*
@@ -34,14 +34,14 @@ Aspiring Cybersecurity & AI Engineer
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Seeking internship opportunities in Software / Cybersecurity / AI
 - Building real-world projects to strengthen my portfolio
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ahmad Mujtaba**  
 CS Student @UET Lahore | Aspiring Cybersecurity & AI Engineer  
