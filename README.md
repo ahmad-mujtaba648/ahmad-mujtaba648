@@ -44,7 +44,6 @@ Aspiring Cybersecurity & AI Engineer
 ## Author
 
 **Ahmad Mujtaba**  
-
 CS Student @UET Lahore | Aspiring Cybersecurity & AI Engineer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
