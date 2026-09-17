@@ -24,7 +24,7 @@ Aspiring Cybersecurity & AI Engineer
 
 ## Certifications
 
-- **ICIP** — Introduction to Critical Infrastructure Protection  
+- ***ICIP*** — Introduction to Critical Infrastructure Protection  
   *OPSWAT Academy*
 - **Introduction to Microsoft Excel** — Coursera
 
