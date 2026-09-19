@@ -59,4 +59,4 @@ CS Student @UET Lahore | Aspiring Cybersecurity & AI Engineer
 
 ---
 
-⭐ *Open to collaborations and internship opportunities!*
+⭐  *Open to collaborations and internship opportunities!*
