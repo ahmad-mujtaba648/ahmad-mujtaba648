@@ -1,5 +1,5 @@
 # Hi there, I'm Ahmad Mujtaba! 
-CS Student @ UET Lahore (ADP) | Expected Graduation: 2027  
+CS Student @ UET Lahore  
 Aspiring Cybersecurity & AI Engineer  
 📍 Lahore, Pakistan  
    mujtaba77007@gmail.com  
