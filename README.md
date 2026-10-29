@@ -28,8 +28,8 @@ Aspiring Cybersecurity & AI Engineer
 ## Certifications
 
 - [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/certificate/KRH448WNBIJZ)
-[![ICIP: Introduction to Critical Infrastructure Protection](https://img.shields.io/badge/ICIP-Critical_Infrastructure_Protection-E4002B?style=flat)](https://learn.opswatacademy.com/certificate/N1pVQ8klsg)
-[![Introduction to Microsoft Excel](https://img.shields.io/badge/Coursera-Introduction_to_Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://coursera.org/verify/9RAREPUKCXAV)
+- [![ICIP: Introduction to Critical Infrastructure Protection](https://img.shields.io/badge/ICIP-Critical_Infrastructure_Protection-E4002B?style=flat)](https://learn.opswatacademy.com/certificate/N1pVQ8klsg)
+- [![Introduction to Microsoft Excel](https://img.shields.io/badge/Coursera-Introduction_to_Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://coursera.org/verify/9RAREPUKCXAV)
 
 ---
 
