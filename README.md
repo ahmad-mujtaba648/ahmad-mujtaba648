@@ -18,7 +18,7 @@ Aspiring Cybersecurity & AI Engineer
 
 **Tools & Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Concepts:**  
 `OOP` `Data Structures` `Database Basics` `Networking Fundamentals` `Linux Command Line` `SQL for Security` `Security Fundamentals`
