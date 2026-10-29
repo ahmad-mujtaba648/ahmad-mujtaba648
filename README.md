@@ -24,9 +24,8 @@ Aspiring Cybersecurity & AI Engineer
 
 ## Certifications
 
-- ***ICIP*** — Introduction to Critical Infrastructure Protection  
-  *OPSWAT Academy*
-- **Introduction to Microsoft Excel** — Coursera
+-[![ICIP: Introduction to Critical Infrastructure Protection](https://img.shields.io/badge/ICIP-Critical_Infrastructure_Protection-E4002B?style=flat&logo=opswat&logoColor=white)](https://learn.opswatacademy.com/certificate/N1pVQ8klsg)
+[![Introduction to Microsoft Excel](https://img.shields.io/badge/Coursera-Introduction_to_Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://coursera.org/verify/9RAREPUKCXAV)
 
 ---
 
