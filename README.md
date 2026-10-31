@@ -6,7 +6,7 @@ Aspiring Cybersecurity & AI Engineer
  Google Cybersecurity Certified | OPSWAT ICIP Certified  
 📍 Lahore, Pakistan  
 📧 mujtaba77007@gmail.com  
-
+                                                          
 ---
 
 ## Skills & Technologies
